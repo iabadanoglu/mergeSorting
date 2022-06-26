@@ -5,3 +5,4 @@
 # Big-O gösterimi
 
 nLog(n)
+O(6Log(6))
